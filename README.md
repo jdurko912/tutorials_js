@@ -1,1 +1,1 @@
-This is an example project
+For running JS tutorials
